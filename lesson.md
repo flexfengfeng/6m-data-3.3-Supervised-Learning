@@ -1,7 +1,7 @@
 # Lesson — L03 Supervised Learning Foundations
 
-> **Chapter 3 of the NorthStar Retail story.** *Sarah Chen · Customer Experience Analyst · Week 4.*
-> Marcus's question after Sarah's Friday presentation — *"Can you train your own model on NorthStar data?"* — is the brief for the whole week. Sarah has `northstar_churn.csv`: 10,000 customers, 11 features, one target column (`churned`), and Friday to ship a working classifier.
+> **Chapter 3 of the NorthStar Retail story.** *Sarah Chen · Customer Experience Analyst · Day 4.*
+> Marcus's question after Sarah's Friday presentation — *"Can you train your own model on NorthStar data?"* — is the brief for the day. Sarah has `northstar_churn.csv`: 10,000 customers, 11 features, one target column (`churned`), and Friday to ship a working classifier.
 
 This document is a **short reference** — the lesson itself is taught in the notebooks. Read it for orientation before class, then come back for the takeaways, the threshold-choice checklist, the review questions, and the course map.
 
@@ -153,6 +153,6 @@ L03's scaffolding — pipelines, train/validate splits, precision/recall/F1, thr
 
 ---
 
-> *"This is the first model we own. Can you make it better next week?"* — Marcus, after Sarah's Friday presentation.
+> *"This is the first model we own. Can you make it better tomorrow?"* — Marcus, after Sarah's Friday presentation.
 >
 > That question — *how do I improve this model?* — is the engine of **L04 (Supervised Learning, Advanced)**.

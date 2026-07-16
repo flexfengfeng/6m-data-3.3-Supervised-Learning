@@ -1,6 +1,6 @@
 # L03 — Supervised Learning Foundations
 
-> *Sarah Chen's third week at NorthStar Retail. Friday last week, Marcus asked: "Can you build us a model that predicts churn from our OWN customer data?" This week she trains her first model.*
+> *Sarah Chen's fourth day at NorthStar Retail. Yesterday, Marcus asked: "Can you build us a model that predicts churn from our OWN customer data?" Today she trains her first model.*
 > By the end of this lesson you will be able to take a messy real-world dataset, prepare it for modelling, train a classifier, evaluate it with the right metrics, and make a business-aware threshold decision.
 
 ---
@@ -24,7 +24,7 @@
 | **L03 — Supervised Learning Foundations** *(you are here)* | Train your first model from scratch — predict churn on NorthStar's own customer data | A reproducible preprocessing → training → evaluation pipeline you can apply to any tabular ML problem |
 | **L04 — Advanced Supervised Learning** | Decision trees, ensembles, Kaggle-style hyperparameter tuning | The toolkit most production tabular-ML systems use |
 
-**The narrative thread:** Marcus's question — "*train YOUR OWN model on NorthStar data*" — is finally answered this week.
+**The narrative thread:** Marcus's question — "*train YOUR OWN model on NorthStar data*" — is finally answered today.
 
 ---
 
